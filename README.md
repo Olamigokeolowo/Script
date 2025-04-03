@@ -4,4 +4,6 @@ This script is built to analyze key server performance metrics, offering real-ti
 To use the script, clone the repository, navigate to its directory, grant execution permissions, and run it. If continuous monitoring is required, setting up a cron job ensures that the script runs automatically at specified intervals, helping maintain server stability and efficiency.
 
 Below is the result of the code 
+
+
 ![Image](https://github.com/user-attachments/assets/6bad2771-0e00-4bc6-bc9d-0e85da532c7e)
