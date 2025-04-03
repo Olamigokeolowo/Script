@@ -26,9 +26,10 @@ Ensure the following dependencies are installed on the server:
 ##  Installation  
 Clone the repository and navigate to the script directory:  
 ```  bash
-git clone <https://github.com/Olamigokeolowo/Script/edit/main/README.md>
-cd <script_directory>
-chmod +x check_server_status.sh
+git clone https://github.com/Olamigokeolowo/Script.git
+cd Script
+chmod +x server_stats.sh
+./server_stats.sh
 ```
 
 Below is the result of the code:
