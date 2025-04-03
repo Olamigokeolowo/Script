@@ -11,3 +11,4 @@ To use it, simply clone the repository, navigate to the script directory, make i
 If automation is needed, the script can be scheduled to run at regular intervals using cron, ensuring continuous monitoring.
 
 Below is the result of the code 
+![Image](https://github.com/user-attachments/assets/6bad2771-0e00-4bc6-bc9d-0e85da532c7e)
