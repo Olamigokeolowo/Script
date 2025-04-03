@@ -29,7 +29,7 @@ Clone the repository and navigate to the script directory:
 git clone https://github.com/Olamigokeolowo/Script.git
 cd Script
 chmod +x server_stats.sh
-./server_stats.sh
+./server-stats.sh
 ```
 
 Below is the result of the code:
