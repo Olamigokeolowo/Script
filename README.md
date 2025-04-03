@@ -28,7 +28,7 @@ Clone the repository and navigate to the script directory:
 ```  bash
 git clone https://github.com/Olamigokeolowo/Script.git
 cd Script
-chmod +x server_stats.sh
+chmod +x server-stats.sh
 ./server-stats.sh
 ```
 
