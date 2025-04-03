@@ -26,7 +26,7 @@ Ensure the following dependencies are installed on the server:
   Installation  
 Clone the repository and navigate to the script directory:  
   bash
-git clone <repo_url>
+git clone <https://github.com/Olamigokeolowo/Script/edit/main/README.md>
 cd <script_directory>
 chmod +x check_server_status.sh
 
