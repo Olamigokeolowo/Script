@@ -31,7 +31,7 @@ cd Script
 chmod +x server-stats.sh
 ./server-stats.sh
 ```
-
+Project : https://github.com/Olamigokeolowo/Script/blob/main/server-stats.sh
 Below is the result of the code:
 
 
