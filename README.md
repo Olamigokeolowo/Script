@@ -3,6 +3,33 @@ This script is built to analyze key server performance metrics, offering real-ti
 
 To use the script, clone the repository, navigate to its directory, grant execution permissions, and run it. If continuous monitoring is required, setting up a cron job ensures that the script runs automatically at specified intervals, helping maintain server stability and efficiency.
 
+# Server Status Check Script  
+
+Overview  
+This Bash script checks the status of a server by retrieving system information such as uptime, CPU usage, memory usage, and the status of critical services.  
+
+ Features  
+- Displays system uptime  
+- Checks CPU and memory usage  
+- Lists active processes  
+- Monitors disk usage  
+- Verifies service availability  
+
+ Prerequisites  
+Ensure the following dependencies are installed on the server:  
+- bash (default on most Linux distributions)  
+- uptime (included in coreutils)  
+- top or htop (for CPU/memory usage)  
+- df (for disk space monitoring)  
+- systemctl or service (for checking service status)  
+
+  Installation  
+Clone the repository and navigate to the script directory:  
+  bash
+git clone <repo_url>
+cd <script_directory>
+chmod +x check_server_status.sh
+
 Below is the result of the code 
 
 
